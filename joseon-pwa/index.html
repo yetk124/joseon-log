@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <!-- PWA 핵심 메타태그 -->
+    <meta name="theme-color" content="#1A1208" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="조선탐방" />
+
+    <!-- SEO -->
+    <meta name="description" content="조선왕조 역사 공간 탐방 가이드 앱" />
+
+    <!-- 아이콘 -->
+    <link rel="icon" type="image/png" href="/icons/joseon_log.png" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+
+    <!-- 구글 폰트 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700;900&family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+    <title>조선로그</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/javascript">
+      const kakaoKey = '%VITE_KAKAO_MAP_KEY%';
+      const script = document.createElement('script');
+      script.src = `https://dapi.kakao.com/v2/maps/sdk.js?appkey=${kakaoKey}&libraries=services&autoload=false`;
+      document.head.appendChild(script);
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

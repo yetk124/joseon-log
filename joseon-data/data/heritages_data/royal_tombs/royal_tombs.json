@@ -1,0 +1,386 @@
+[
+  {
+    "order": "1대",
+    "name": "태조고황제",
+    "tomb_name": "건원릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "1대",
+    "name": "신의고황후 한씨",
+    "tomb_name": "제릉",
+    "address": "북한",
+    "heritage_name": "",
+    "phone": ""
+  },
+  {
+    "order": "1대",
+    "name": "신덕고황후 강씨",
+    "tomb_name": "정릉",
+    "address": "서울 성북구 아리랑로 19길 116",
+    "heritage_name": "서울 정릉",
+    "phone": "02-914-5133"
+  },
+  {
+    "order": "2대",
+    "name": "정종, 정안왕후 김씨",
+    "tomb_name": "후릉",
+    "address": "북한",
+    "heritage_name": "",
+    "phone": ""
+  },
+  {
+    "order": "3대",
+    "name": "태종, 원경왕후 민씨",
+    "tomb_name": "헌릉",
+    "address": "서울 서초구 헌인릉길 36-10",
+    "heritage_name": "서울 헌릉과 인릉",
+    "phone": "02-445-0347"
+  },
+  {
+    "order": "4대",
+    "name": "세종, 소헌왕후 심씨",
+    "tomb_name": "영릉",
+    "address": "경기 여주시 능서면 영릉로 269-10",
+    "heritage_name": "여주 영릉과 영릉",
+    "phone": "031-880-4700"
+  },
+  {
+    "order": "5대",
+    "name": "문종, 현덕왕후 권씨",
+    "tomb_name": "현릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "6대",
+    "name": "단종",
+    "tomb_name": "장릉",
+    "address": "강원 영월군 영월읍 단종로 190",
+    "heritage_name": "영월 장릉",
+    "phone": "033-372-3088"
+  },
+  {
+    "order": "6대",
+    "name": "정순왕후 송씨",
+    "tomb_name": "사릉",
+    "address": "경기 남양주시 진건읍 사릉로 180",
+    "heritage_name": "남양주 사릉",
+    "phone": "031-573-8124"
+  },
+  {
+    "order": "7대",
+    "name": "세조, 정희왕후 윤씨",
+    "tomb_name": "광릉",
+    "address": "경기 남양주시 진접읍 광릉수목원로 354",
+    "heritage_name": "남양주 광릉",
+    "phone": "031-527-7105"
+  },
+  {
+    "order": "추존",
+    "name": "덕종, 소혜왕후 한씨",
+    "tomb_name": "경릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "8대",
+    "name": "예종, 안순왕후 한씨",
+    "tomb_name": "창릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "8대",
+    "name": "장순왕후 한씨",
+    "tomb_name": "공릉",
+    "address": "경기 파주시 조리읍 삼릉로 89",
+    "heritage_name": "파주 삼릉",
+    "phone": "031-941-4208"
+  },
+  {
+    "order": "9대",
+    "name": "성종, 정현왕후 윤씨",
+    "tomb_name": "선릉",
+    "address": "서울 강남구 선릉로 100길 1",
+    "heritage_name": "서울 선릉과 정릉",
+    "phone": "02-568-1291"
+  },
+  {
+    "order": "9대",
+    "name": "공혜왕후 한씨",
+    "tomb_name": "순릉",
+    "address": "경기 파주시 조리읍 삼릉로 89",
+    "heritage_name": "파주 삼릉",
+    "phone": "031-941-4208"
+  },
+  {
+    "order": "10대",
+    "name": "연산군, 신씨",
+    "tomb_name": "연산군묘",
+    "address": "서울 도봉구 방학로 17길 46",
+    "heritage_name": "서울 연산군묘",
+    "phone": "02-972-0370"
+  },
+  {
+    "order": "11대",
+    "name": "중종",
+    "tomb_name": "정릉",
+    "address": "서울 강남구 선릉로 100길 1",
+    "heritage_name": "서울 선릉과 정릉",
+    "phone": "02-568-1291"
+  },
+  {
+    "order": "11대",
+    "name": "단경왕후 신씨",
+    "tomb_name": "온릉",
+    "address": "경기 양주시 장흥면 호국로 255-41",
+    "heritage_name": "양주 온릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "11대",
+    "name": "장경왕후 윤씨",
+    "tomb_name": "희릉",
+    "address": "경기 고양시 덕양구 서삼릉길 233-126",
+    "heritage_name": "고양 서삼릉",
+    "phone": "031-962-6009"
+  },
+  {
+    "order": "11대",
+    "name": "문정왕후 윤씨",
+    "tomb_name": "태릉",
+    "address": "서울 노원구 화랑로 681",
+    "heritage_name": "서울 태릉과 강릉",
+    "phone": "02-972-0370"
+  },
+  {
+    "order": "12대",
+    "name": "인종, 인성왕후 박씨",
+    "tomb_name": "효릉",
+    "address": "경기 고양시 덕양구 서삼릉길 233-126",
+    "heritage_name": "고양 서삼릉",
+    "phone": "031-962-6009"
+  },
+  {
+    "order": "13대",
+    "name": "명종, 인순왕후 심씨",
+    "tomb_name": "강릉",
+    "address": "서울 노원구 화랑로 681",
+    "heritage_name": "서울 태릉과 강릉",
+    "phone": "02-972-0370"
+  },
+  {
+    "order": "14대",
+    "name": "선조, 의인왕후 박씨",
+    "tomb_name": "목릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "14대",
+    "name": "인목왕후 김씨",
+    "tomb_name": "목릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "15대",
+    "name": "광해군, 류씨",
+    "tomb_name": "",
+    "address": "경기 남양주시 진건읍 송능리 산 59",
+    "heritage_name": "남양주 광해군묘",
+    "phone": "031-573-8124"
+  },
+  {
+    "order": "추존",
+    "name": "원종, 인헌왕후 구씨",
+    "tomb_name": "장릉",
+    "address": "경기 김포시 장릉로 79",
+    "heritage_name": "김포 장릉",
+    "phone": "031-984-2897"
+  },
+  {
+    "order": "16대",
+    "name": "인조, 인열왕후 한씨",
+    "tomb_name": "장릉",
+    "address": "경기 파주시 탄현면 장릉로 90",
+    "heritage_name": "파주 장릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "16대",
+    "name": "장렬왕후 조씨",
+    "tomb_name": "휘릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "17대",
+    "name": "효종, 인선왕후 장씨",
+    "tomb_name": "영릉",
+    "address": "경기 여주시 능서면 영릉로 269-10",
+    "heritage_name": "여주 영릉과 영릉",
+    "phone": "031-880-4700"
+  },
+  {
+    "order": "18대",
+    "name": "현종, 명성왕후 김씨",
+    "tomb_name": "숭릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "19대",
+    "name": "숙종, 인현왕후 민씨",
+    "tomb_name": "명릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "19대",
+    "name": "인원왕후 김씨",
+    "tomb_name": "명릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "19대",
+    "name": "인경왕후 김씨",
+    "tomb_name": "익릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "20대",
+    "name": "경종, 선의왕후 어씨",
+    "tomb_name": "의릉",
+    "address": "서울 성북구 화랑로 32길 146-20",
+    "heritage_name": "서울 의릉",
+    "phone": "02-964-0579"
+  },
+  {
+    "order": "20대",
+    "name": "단의왕후 심씨",
+    "tomb_name": "혜릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "21대",
+    "name": "영조, 정순왕후 김씨",
+    "tomb_name": "원릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "21대",
+    "name": "정성왕후 서씨",
+    "tomb_name": "홍릉",
+    "address": "경기 고양시 덕양구 서오릉로 334-32",
+    "heritage_name": "고양 서오릉",
+    "phone": "02-359-0090"
+  },
+  {
+    "order": "추존",
+    "name": "진종소황제, 효순소황후 조씨",
+    "tomb_name": "영릉",
+    "address": "경기 파주시 조리읍 삼릉로 89",
+    "heritage_name": "파주 삼릉",
+    "phone": "031-941-4208"
+  },
+  {
+    "order": "추존",
+    "name": "장조의황제, 헌경의황후 홍씨",
+    "tomb_name": "융릉",
+    "address": "경기 화성시 효행로 481번길 21",
+    "heritage_name": "화성 융릉과 건릉",
+    "phone": "031-222-0142"
+  },
+  {
+    "order": "22대",
+    "name": "정조선황제, 효의선황후 김씨",
+    "tomb_name": "건릉",
+    "address": "경기 화성시 효행로 481번길 21",
+    "heritage_name": "화성 융릉과 건릉",
+    "phone": "031-222-0142"
+  },
+  {
+    "order": "23대",
+    "name": "순조숙황제, 순원숙황후 김씨",
+    "tomb_name": "인릉",
+    "address": "서울 서초구 헌인릉길 36-10",
+    "heritage_name": "서울 헌릉과 인릉",
+    "phone": "02-445-0347"
+  },
+  {
+    "order": "추존",
+    "name": "문조익황제, 신정익황후 조씨",
+    "tomb_name": "수릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "24대",
+    "name": "헌종성황제, 효현성황후 김씨",
+    "tomb_name": "경릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "24대",
+    "name": "효정성황후 홍씨",
+    "tomb_name": "경릉",
+    "address": "경기 구리시 동구릉로 197",
+    "heritage_name": "구리 동구릉",
+    "phone": "031-563-2909"
+  },
+  {
+    "order": "25대",
+    "name": "철종장황제, 철인장황후 김씨",
+    "tomb_name": "예릉",
+    "address": "경기 고양시 덕양구 서삼릉길 233-126",
+    "heritage_name": "고양 서삼릉",
+    "phone": "031-962-6009"
+  },
+  {
+    "order": "대한제국",
+    "name": "고종태황제, 명성태황후 민씨",
+    "tomb_name": "홍릉",
+    "address": "경기 남양주시 홍유릉로 352-1",
+    "heritage_name": "남양주 홍릉과 유릉",
+    "phone": "031-591-7043"
+  },
+  {
+    "order": "대한제국",
+    "name": "순종효황제, 순명효황후 민씨",
+    "tomb_name": "유릉",
+    "address": "경기 남양주시 홍유릉로 352-1",
+    "heritage_name": "남양주 홍릉과 유릉",
+    "phone": "031-591-7043"
+  },
+  {
+    "order": "대한제국",
+    "name": "순정효황후 윤씨",
+    "tomb_name": "유릉",
+    "address": "경기 남양주시 홍유릉로 352-1",
+    "heritage_name": "남양주 홍릉과 유릉",
+    "phone": "031-591-7043"
+  }
+]

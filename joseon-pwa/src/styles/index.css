@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── 기본 리셋 ── */
+* {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  background: #F5F1EB;
+  overscroll-behavior: none; /* PWA에서 당겨서 새로고침 방지 */
+}
+
+/* ── 모바일 safe area (아이폰 노치/홈바 대응) ── */
+#root {
+  max-width: 430px;
+  margin: 0 auto;
+  min-height: 100dvh;         /* dynamic viewport height */
+  padding-bottom: env(safe-area-inset-bottom);
+  position: relative;
+  overflow-x: hidden;
+  background: #F5F1EB;
+  box-shadow: 0 0 40px rgba(0,0,0,0.15);
+}
+
+/* ── 스크롤바 숨기기 ── */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ── 페이지 전환 애니메이션 ── */
+.page-enter {
+  opacity: 0;
+  transform: translateY(12px);
+}
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}

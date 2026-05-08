@@ -1,0 +1,38 @@
+# ── 환경변수 (절대 커밋 금지) ──
+.env
+.env.local
+.env.*.local
+
+# ── Python ──
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── Node ──
+node_modules/
+dist/
+
+# ── ChromaDB (로컬 벡터 DB) ──
+joseon-back/chroma_db/
+
+# ── 사용자 업로드 이미지 ──
+joseon-back/uploads/photos/*
+!joseon-back/uploads/photos/.gitkeep
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── IDE ──
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ── 로그 ──
+*.log
