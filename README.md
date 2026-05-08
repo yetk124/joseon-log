@@ -506,15 +506,13 @@ DB 적재 후 `lat IS NULL OR lng IS NULL OR address = ''` 조건으로 장소�
 
 ## 8. 스크린샷
 
-> 실제 화면 캡처 이미지를 아래에 첨부하세요.
+| 지도 탐방 | AI 역사 챗봇 | 내 기록 대시보드 |
+|:---------:|:-----------:|:--------------:|
+| ![지도 탐방 — 카카오맵 기반 장소 마커 및 목록](docs/screenshots/map.png) | ![AI 역사 챗봇 — 조선 역사 해설사](docs/screenshots/chatbot.png) | ![내 기록 — 스탬프 투어·리뷰·사진](docs/screenshots/record.png) |
 
-| 지도 탐방 | AI 챗봇 | 스탬프 투어 |
-|-----------|---------|------------|
-| _screenshot_ | _screenshot_ | _screenshot_ |
-
-| 왕 타임라인 | 장소 상세 | 기록 대시보드 |
-|------------|----------|--------------|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| 왕·인물 타임라인 | 장소 상세 | 장소 상세 (리뷰·사진) | 역사의 흐름 |
+|:--------------:|:--------:|:------------------:|:----------:|
+| ![왕·인물 — 조선 27대 왕 시대별 목록](docs/screenshots/kings.png) | ![장소 상세 — 경복궁 정보·입장료·주소](docs/screenshots/place_detail.png) | ![장소 상세 — 방문자 사진·리뷰](docs/screenshots/place_reviews.png) | ![역사의 흐름 — 시대별 타임라인](docs/screenshots/timeline.png) |
 
 ---
 
