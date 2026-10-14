@@ -34,7 +34,7 @@ def build_index():
         client.delete_collection(COLLECTION)
     except:
         pass
-    collection = client.create_collection(COLLECTION)
+    collection = client.create_collection(COLLECTION, metadata={"hnsw:space": "cosine"})  # 거리 = 1 - 코사인 유사도
 
     all_docs, all_ids = [], []
 
@@ -58,8 +58,8 @@ def build_index():
         for _, row in df.iterrows():
             text = (
                 f"왕 이름: {row['name']} | "
-                f"재위: {row['reign']} | "
-                f"시대: {row['era']} | "
+                f"재위: {row['era']} | "
+                f"시대: {row['reign']} | "
                 f"생몰: {row['birth']}~{row['death']} | "
                 f"설명: {row['desc']}"
             )
@@ -73,7 +73,7 @@ def build_index():
 
     # ── 임베딩 & 저장 ──
     print(f"총 {len(all_docs)}개 문서 임베딩 중...")
-    embeddings = embedder.encode(all_docs, show_progress_bar=True).tolist()
+    embeddings = embedder.encode(all_docs, show_progress_bar=True, normalize_embeddings=True).tolist()
     collection.add(documents=all_docs, embeddings=embeddings, ids=all_ids)
     print(f"🎉 ChromaDB 저장 완료 → {CHROMA_PATH}/")
 

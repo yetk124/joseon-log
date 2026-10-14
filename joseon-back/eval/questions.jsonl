@@ -1,0 +1,40 @@
+{"id": 1, "type": "answerable", "q": "조선을 세운 왕의 원래 이름은 뭐야?", "keywords": ["이성계"], "src": "왕 이름: 태조"}
+{"id": 2, "type": "answerable", "q": "정종은 1399년에 수도를 어디로 옮겼어?", "keywords": ["개경"], "src": "왕 이름: 정종"}
+{"id": 3, "type": "answerable", "q": "태종이 의정부를 거치지 않고 직접 관할한 기관은?", "keywords": ["육조"], "src": "왕 이름: 태종"}
+{"id": 4, "type": "answerable", "q": "세종 때 인재를 양성한 기관은 어디야?", "keywords": ["집현전"], "src": "왕 이름: 세종"}
+{"id": 5, "type": "answerable", "q": "단종은 어디로 유배됐어?", "keywords": ["영월"], "src": "왕 이름: 단종"}
+{"id": 6, "type": "answerable", "q": "세조가 1453년에 일으킨 정변 이름은?", "keywords": ["계유정난"], "src": "왕 이름: 세조"}
+{"id": 7, "type": "answerable", "q": "경국대전을 완성하고 반포한 왕은 누구야?", "keywords": ["성종"], "src": "왕 이름: 성종"}
+{"id": 8, "type": "answerable", "q": "연산군 때 일어난 사화 두 가지는?", "keywords": ["무오사화", "갑자사화"], "src": "왕 이름: 연산군"}
+{"id": 9, "type": "answerable", "q": "연산군을 폐위시킨 사건은?", "keywords": ["중종반정"], "src": "왕 이름: 연산군"}
+{"id": 10, "type": "answerable", "q": "명종이 어릴 때 수렴청정을 한 사람은?", "keywords": ["문정왕후"], "src": "왕 이름: 명종"}
+{"id": 11, "type": "answerable", "q": "임진왜란은 어느 왕 때 일어났어?", "keywords": ["선조"], "src": "왕 이름: 선조"}
+{"id": 12, "type": "answerable", "q": "광해군은 명과 어느 나라 사이에서 외교 균형을 잡으려 했어?", "keywords": ["후금"], "src": "왕 이름: 광해군"}
+{"id": 13, "type": "answerable", "q": "인조 재위 중에 일어난 호란 두 가지는?", "keywords": ["정묘호란", "병자호란"], "src": "왕 이름: 인조"}
+{"id": 14, "type": "answerable", "q": "효종이 은밀히 세운 계획은 뭐야?", "keywords": ["북벌"], "src": "왕 이름: 효종"}
+{"id": 15, "type": "answerable", "q": "대동법이 백 년 만에 전국으로 확대된 건 어느 왕 때야?", "keywords": ["숙종"], "src": "왕 이름: 숙종"}
+{"id": 16, "type": "answerable", "q": "조선에서 가장 오래 재위한 왕은?", "keywords": ["영조"], "src": "왕 이름: 영조"}
+{"id": 17, "type": "answerable", "q": "영조가 당쟁을 막으려고 쓴 정책은?", "keywords": ["탕평"], "src": "왕 이름: 영조"}
+{"id": 18, "type": "answerable", "q": "정조가 정권의 핵심 기구로 삼은 곳은?", "keywords": ["규장각"], "src": "왕 이름: 정조"}
+{"id": 19, "type": "answerable", "q": "철종 때 1862년 민란은 어디서 시작됐어?", "keywords": ["진주"], "src": "왕 이름: 철종"}
+{"id": 20, "type": "answerable", "q": "대한제국의 제1대 황제는 누구야?", "keywords": ["고종"], "src": "왕 이름: 고종"}
+{"id": 21, "type": "answerable", "q": "측우기는 몇 년에 만들어졌어?", "keywords": ["1442"], "src": "측우기"}
+{"id": 22, "type": "answerable", "q": "훈민정음은 몇 년에 반포됐어?", "keywords": ["1446"], "src": "1446년"}
+{"id": 23, "type": "answerable", "q": "동의보감을 편찬한 사람은?", "keywords": ["허준"], "src": "동의보감"}
+{"id": 24, "type": "answerable", "q": "홍길동전을 지은 사람은?", "keywords": ["허균"], "src": "홍길동전"}
+{"id": 25, "type": "answerable", "q": "계미자는 몇 년에 만들어졌어?", "keywords": ["1403"], "src": "계미자"}
+{"id": 26, "type": "answerable", "q": "판소리 전승 5가에는 뭐가 있어?", "keywords": ["춘향가", "심청가"], "src": "전승 5가"}
+{"id": 27, "type": "answerable", "q": "고종이 '대한국'을 국호로 선포한 해는?", "keywords": ["1897"], "src": "1897년 10월"}
+{"id": 28, "type": "answerable", "q": "조선 건국 당시 인구는 어느 정도로 추정돼?", "keywords": ["480만"], "src": "480만"}
+{"id": 29, "type": "answerable", "q": "1459년 세조 5년에 폐지한 군은?", "keywords": ["자성군"], "src": "자성군"}
+{"id": 30, "type": "answerable", "q": "정약용이 기중기를 이용해 쌓은 건축물은?", "keywords": ["수원화성"], "src": "기중기"}
+{"id": 31, "type": "unanswerable", "q": "경복궁 오늘 입장료 얼마야?"}
+{"id": 32, "type": "unanswerable", "q": "고려 광종의 노비안검법 내용 알려줘"}
+{"id": 33, "type": "unanswerable", "q": "오늘 서울 날씨 어때?"}
+{"id": 34, "type": "unanswerable", "q": "세종대왕 MBTI가 뭐야?"}
+{"id": 35, "type": "unanswerable", "q": "이순신 장군의 키는 몇이었어?"}
+{"id": 36, "type": "unanswerable", "q": "스타벅스 사이렌오더 쓰는 법 알려줘"}
+{"id": 37, "type": "unanswerable", "q": "정조가 제일 좋아한 음식 top3는?"}
+{"id": 38, "type": "unanswerable", "q": "신라의 첫 번째 왕은 누구야?"}
+{"id": 39, "type": "unanswerable", "q": "파이썬으로 리스트 정렬하는 법 알려줘"}
+{"id": 40, "type": "unanswerable", "q": "단종이 유배지에서 매일 먹은 반찬은?"}

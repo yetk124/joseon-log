@@ -7,3 +7,6 @@ passlib[bcrypt]
 python-multipart
 python-dotenv
 anthropic
+chromadb
+sentence-transformers
+pandas

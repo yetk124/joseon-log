@@ -11,3 +11,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# RAG 운영 로그 / 평가 결과
+logs/
+eval/results/
